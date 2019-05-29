@@ -1,6 +1,10 @@
 public class Runner {
 
 	public static void main(String[]args) {
+		
+		// Mihir: I learned how to use GitKraken to merge
+		// separate branches into one branch to get the edits
+		// of both branches on one project.
 	
 		PrintQuotient p = (float a, float b) -> {
 		
